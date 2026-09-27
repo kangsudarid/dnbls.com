@@ -25,7 +25,7 @@ export default async function Home() {
   const posts = (await getPosts()).slice(0, POSTS_ON_HOME);
   const heroImages = interleave(
     getImages("work").filter(
-      (p) => p.category === "work/attio" || heroExtras.includes(p.src),
+      (p) => p.category === "work/me" || heroExtras.includes(p.src),
     ),
     getImages("me").filter((p) => !heroExclude.includes(p.src)),
   );
