@@ -11,11 +11,11 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://dnbls.com"),
   title: {
-    default: "Dan Billson",
-    template: "%s | Dan Billson",
+    default: "Sudar Blogger",
+    template: "%s | Sudar Blogger",
   },
   description:
-    "Dan Billson is a design engineer in London, building interactive web experiences at Attio. Motion, typography and design systems.",
+    "Catatan Blog Kang Sudar Tentang Tutorial, Travelling, Notes dan Pengalaman Mengenai Blogger.",
   alternates: {
     types: { "text/plain": [{ url: "/llms.txt", title: "llms.txt" }] },
   },
