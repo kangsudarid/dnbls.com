@@ -1,10 +1,10 @@
 export const profile = {
-  name: "Dan Billson",
+  name: "Sudar Blogger",
   role: "Design Engineer",
   intro:
-    "I’m a design engineer at Attio. I like things made with care — interactions, typefaces, a proper pint of cask. The rest of the time you’ll find me on a volleyball court or out on a run.",
+    "Perkenalkan Nama saya Sudarmanto, atau orang memanggil saya sudar saya tinggal di pelosok desa di daerah lamongan yaitu Desa Kedungmentawar Kecamatan Ngimbang, Kabupaten Lamongan. Desa saya ini terletak di perbatasan Lamongan.",
   statement:
-    "Design engineer in Attio’s little creative studio. Most of my career has been building product very close to design. Off the clock it’s volleyball, running when I’m not injured, and beer — the traditional stuff and the weird stuff.",
+    "Menjadi Blogger adalah keinginan dari dulu, di dunai blogger pula saya menganal banyak teman dan banyak pengalaman.",
 };
 
 export const links = [
@@ -205,25 +205,25 @@ export const projects = [
 export const about = {
   headline: "Pixels, Pints and PBs",
   body: [
-    "Hi, I’m Dan. I’m a design engineer at Attio in London, working in our little creative studio. I’ve spent most of my time building products very close to design but have also tried my hand at developer experience, open source and agency work, with my first work experience as a graphic designer for the local paper.",
-    "Lately I’ve been into print. Which is funny, because I’ve worked for my friend Ryan at a cheer apparel company doing screen printing and at one of the UK’s biggest print groups, and didn’t care about it much either time. Turns out I just needed it to be my own.",
-    "I spent a few years cheerleading and competed for Team England. These days it’s volleyball and running whenever I’m not injured.",
-    "And beer. That gets its own section.",
+    "Perkenalkan Nama saya sudarmanto, atau orang memanggil saya sudar saya tinggal di pelosok desa di daerah lamongan yaitu Desa Kedungmentawar Kecamatan Ngimbang, Kabupaten Lamongan.",
+    "Awal saya mengenal blogger pada tahun 2013 yang mana itu ada tugas sekolah yang harus membuat blog pribadi, dari situ saya mulai belajar mengenai dunia perbloggingan",
+    "Tidak hanya belajar menulis akan tetapi kalian harus belajar mengenai HTML, CSS dan Javascript supaya blog kalian bisa dioprek menjadi lebih indah lagi tampilan blog nya.",
+    "Karena Menajadi Blogger adalah Jalan Ninjaku.",
   ],
   beer: {
     headline: "A Proper Pint",
     columns: [
       [
-        "I’m a traditionalist at heart. Czech pilsner with a thick foam head, a Munich helles, Belgian Trappist, lambic that tastes like a farmhouse, and a well-kept pint of cask in a British pub.",
-        "Styles that have been made the same way for a very long time, for good reason.",
+        "Selain Menulis saya juga suka travelling ya walaupun disini aja dan belum sampai ke luar pulau setidaknya bisa menikmati hidup.",
+        "Melihat keindahan alam dan kebebasan seperti burung itu lah yang ku inginkan.",
       ],
       [
-        "That’s turned into a bit of a pilgrimage habit: the cellars at Pilsner Urquell, the Augustiner Bierkeller in Munich, Cantillon in Brussels, and breweries all over the UK.",
-        "I’ve still got plenty of time for the weird stuff — Omnipollo, Emperor’s — and a solid pale from Beak or Baron.",
+        "Tidak hanya travelling saya juga main games untuk melepas gabut dan kesendirian.",
+        "Biasanya game yang saya main kan adalah game moba yang mana itu sangatlah populer saat ini.",
       ],
       [
-        "At home I brew the odd batch on a Grainfather, with mixed results and a lot of cleaning.",
-        "I also keep a running list of the best pubs in London, updated every year — good beer, good people, music quiet enough to talk over.",
+        "Selainb nge Games saya juga suka baca buku dan review buku akan tetapi belum saya tulis di blog ini.",
+        "Buku favorit saya itu Kisah Lainnya dari NOAH yang mana ceritanya sangat menginspirasi banget",
       ],
     ],
     link: {
@@ -237,16 +237,16 @@ export const about = {
       "I travel for the culture, the beer and the food — ideally all three before lunch. Mostly Europe, the odd long-haul, always too many photos of buildings.",
     places: [
       {
-        name: "Valencia",
-        country: "Spain",
-        photos: "travel/valencia",
-        note: "Calatrava’s City of Arts and Sciences, beach volleyball and clóchinas by the sea.",
+        name: "Malang",
+        country: "Bromo",
+        photos: "travel/malang",
+        note: "Keindahan Gunung Bromo yang Tiada Tara, di Tambah Keindahan Lautan Awan nya Yang Mempesona.",
       },
       {
-        name: "Belgium",
-        country: "Ghent & around",
-        photos: "travel/belgium",
-        note: "Canal-side gables, Trappist beer and a long afternoon at the Waterhuis aan de Bierkant.",
+        name: "Mountain",
+        country: "Kelud & Bromo",
+        photos: "travel/mountain",
+        note: "Melepas Masalah Dengan Cara Mendaki di Pegunungan atau Bahkan Gunung.",
       },
       {
         name: "New York",
