@@ -1,6 +1,6 @@
 import { heroImage, ogSize } from "@/lib/og";
 
-export const alt = "Dan Billson — Design Engineer";
+export const alt = "Sudar Blogger - Personal Blog";
 export const size = ogSize;
 export const contentType = "image/png";
 
