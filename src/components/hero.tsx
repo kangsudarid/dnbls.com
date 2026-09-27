@@ -131,7 +131,7 @@ export function Hero({ images }: { images: { src: string }[] }) {
           <span data-mask className="inline-block">
             <span data-word style={at(100)} className="inline-block">
               <Scramble radius={140} grow="left">
-                Dan
+                Sudar
               </Scramble>
             </span>
           </span>
@@ -156,7 +156,7 @@ export function Hero({ images }: { images: { src: string }[] }) {
           <span data-mask className="inline-block">
             <span data-word style={at(160)} className="inline-block">
               <Scramble radius={140} grow="right">
-                Billson
+                Blogger
               </Scramble>
             </span>
           </span>
