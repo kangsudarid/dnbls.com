@@ -239,13 +239,13 @@ export const about = {
       {
         name: "Malang",
         country: "Bromo",
-        photos: "travel/malang",
+        photos: "travel/valencia",
         note: "Keindahan Gunung Bromo yang Tiada Tara, di Tambah Keindahan Lautan Awan nya Yang Mempesona.",
       },
       {
         name: "Mountain",
         country: "Kelud & Bromo",
-        photos: "travel/mountain",
+        photos: "travel/belgium",
         note: "Melepas Masalah Dengan Cara Mendaki di Pegunungan atau Bahkan Gunung.",
       },
       {
